@@ -22,5 +22,27 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>NSPrincipalClass</key>
 	<string></string>
+
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb1248374669891209</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>1248374669891209</string>
+<key>FacebookClientToken</key>
+<string>5cbeef8660f06c422920ebef359349da</string>
+<key>FacebookDisplayName</key>
+<string>WA_GRANTHA</string>
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+  <string>fbapi</string>
+  <string>fb-messenger-share-api</string>
+</array>
 </dict>
 </plist>
